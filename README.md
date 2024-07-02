@@ -1,2 +1,0 @@
-# JavaBToGLevels
-# JavaBeginnerToGodLevel
